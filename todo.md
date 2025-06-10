@@ -1,0 +1,15 @@
+- [x] Analyze `index.html` to understand the overall structure and identify sections for modification.
+- [x] Analyze `styles.css` to understand existing styles and identify where to add new styles for containers and items.
+- [x] Analyze `script.js` to understand existing JavaScript functionalities and identify where to add new scripts for active section highlighting.
+- [x] Create video-container for containing youtube video links.
+- [x] Apply the video container for the given video links in html file.
+- [x] Arrange the video templates side by side.
+- [x] Write a image-container-full for showing the full image.
+- [x] Write a image-container-vertical for showing the full image of vertical images.
+- [x] Tidy up the project section containing 4 images so that they look good side by side or if needed 2 images can go under.
+- [x] Write an award-item for containing the award information.
+- [x] Tidy up the award item sections and add sufficient gap between each awards.
+- [x] Implement active section highlighting (e.g., teal color) for the container we are currently in (e.g., "about me").
+- [x] Test all new functionalities and ensure they work as expected.
+- [x] Deliver the updated files to the user.
+
